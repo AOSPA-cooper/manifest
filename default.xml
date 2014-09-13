@@ -482,7 +482,7 @@
 
   <!-- Device Specific -->
   <project name="androidarmv6/android_device_samsung_msm7x27-common" path="device/samsung/msm7x27-common" revision="cm-11.0" remote="cm" />
-  <project name="zst123/android_device_samsung_cooper" path="device/samsung/cooper" remote="github" revision="cm-11.0" />
+  <project name="AOSPA-cooper/android_device_samsung_cooper" path="device/samsung/cooper" remote="github" revision="cm-11.0" />
   <project name="androidarmv6/android_kernel_samsung_msm7x27" path="kernel/samsung/msm7x27" remote="cm" revision="cm-11.0" />
   <project name="androidarmv6/android_vendor_samsung" path="vendor/samsung" remote="cm" revision="cm-11.0" />
   <project name="androidarmv6/android_hardware_atheros_ath6kl-compat" path="hardware/atheros/ath6kl-compat" remote="cm" revision="cm-11.0" />
